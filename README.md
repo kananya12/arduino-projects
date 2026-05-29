@@ -1,6 +1,6 @@
 # arduino-projects
 A collection of hardware projects built using the Elegoo UNO R3 starter kit.
-Built as part of my electrical engineering undergraduate journey at UH.
+Built as part of my electrical engineering undergraduate journey.
 
 
 ### 1. LED Blink
