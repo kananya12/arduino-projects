@@ -34,7 +34,7 @@ Use two buttons to turn an LED on and off.
 - Concepts: Digital input, INPUT_PULLUP, conditional logic
 - Components: 2x buttons, LED, Arduino UNO
 
-###7. Tilt Switch
+### 7. Tilt Switch
 Detect orientation using a tilt ball switch. Combined with buzzer for audio feedback.
 - Concepts: Digital input, sensor reading, multi-component integration
 - Components: Tilt switch, buzzer, LED, Arduino UNO
